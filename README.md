@@ -10,7 +10,7 @@
 - Activates the BBApp with suitable input formats.
 
 ## Installation
-- An app built on top of matlab app designer (גesigned in matlab version 2018a).
+- An app built on top of matlab app designer (Designed in matlab version 2018a).
 
 ## Run
 BBAppDriver.m : Provide the .nii file names:
