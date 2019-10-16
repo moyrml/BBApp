@@ -21,6 +21,7 @@ lookFor = 'BetStripped_T1*post.nii'; [line 7]
 
 ## UI
 The program includes UI for 3D image visualization and Bounding Box selection
+
 ![BBApp interface](https://drive.google.com/uc?id=0BzANjYEFuIdjS1Jpbmp6UHg1enVmZ3hxZElkcnBvOEdncS1Z)
 
 ## Output
