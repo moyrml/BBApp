@@ -22,7 +22,7 @@ lookFor = 'BetStripped_T1*post.nii'; [line 7]
 ## UI
 The program includes UI for 3D image visualization and Bounding Box selection
 
-<img src="https://drive.google.com/uc?export=view&id=0BzANjYEFuIdjS1Jpbmp6UHg1enVmZ3hxZElkcnBvOEdncS1Z" />
+![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
 
 ## Output
 BetStripped_{file name}_Mid_Slices > Extracted_1
